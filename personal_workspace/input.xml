@@ -1,0 +1,14 @@
+<School>
+  <Student id="1">
+    <Name>Alice</Name>
+    <Age>14</Age>
+    <Grade>9</Grade>
+    <Subject>Math</Subject>
+  </Student>
+  <Student id="2">
+    <Name>Bob</Name>
+    <Age>15</Age>
+    <Grade>10</Grade>
+    <Subject>Science</Subject>
+  </Student>
+</School>

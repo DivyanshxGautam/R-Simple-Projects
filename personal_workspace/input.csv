@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Date
+1001,Laptop,Electronics,2,850,2025-01-12
+1002,Office Chair,Furniture,5,120,2025-02-05
+1003,Water Bottle,Accessories,10,15,2025-02-18
+1004,Smartphone,Electronics,3,650,2025-03-10
+1005,Notebook,Stationery,25,3,2025-03-15
+1006,Headphones,Electronics,4,80,2025-04-01
+1007,Desk Lamp,Furniture,6,45,2025-04-20
+1008,Pen Set,Stationery,12,5,2025-05-05
+1009,Backpack,Accessories,7,40,2025-06-10
+1010,Printer,Electronics,2,150,2025-07-22
